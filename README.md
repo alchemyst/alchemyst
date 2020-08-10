@@ -16,7 +16,7 @@ I supervised Stefan Endres, who came up with the [SHGO optimisation algorithm](h
 
 ## Blog
 
-I have a blog called [Negative Feedback](negfeedback.blogspot.com).
+I have a blog called [Negative Feedback](https://negfeedback.blogspot.com).
 
 <!--
 **alchemyst/alchemyst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
