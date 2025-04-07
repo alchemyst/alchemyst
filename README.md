@@ -2,7 +2,7 @@
 
 ## Roles
 
-* Head of Data Science and AI at [proquoai.com](proquoai.com).
+* Head of Data Science and AI at [traction](brandtraction.co.uk).
 * [Extraordinary lecturer](www.up.ac.za/chemeng/csandrock) in the department of Chemical Engineering at the University of Pretoria.
 
 ## Interests
