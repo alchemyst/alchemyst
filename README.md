@@ -2,7 +2,7 @@
 
 ## Roles
 
-* Head of Data Science and AI at [traction](brandtraction.co.uk).
+* Head of Data Science and AI at [traction](https://brandtraction.co.uk).
 * [Extraordinary lecturer](www.up.ac.za/chemeng/csandrock) in the department of Chemical Engineering at the University of Pretoria.
 
 ## Interests
